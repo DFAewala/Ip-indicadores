@@ -1,4 +1,4 @@
-# Documento generado: 2024-07-28 14:00:50
+# Documento generado: 2024-07-28 14:30:55
 2001:470:1:332::2a
 2001:470:1:332::43
 2001:470:1:332::47
@@ -110,6 +110,7 @@
 2a03:2880:ff:25::face:b00c
 2a03:2880:ff:26::face:b00c
 2a03:2880:ff:27::face:b00c
+2a03:2880:ff:70::face:b00c
 2a03:2880:ff:74::face:b00c
 2a03:2880:ff:7c::face:b00c
 2a03:2880:2ff:f::face:b00c
@@ -132,12 +133,10 @@
 2a03:2880:11ff:74::face:b00c
 2a03:2880:13ff:4::face:b00c
 2a03:2880:13ff:5::face:b00c
-2a03:2880:13ff:6::face:b00c
 2a03:2880:13ff:d::face:b00c
 2a03:2880:13ff:11::face:b00c
 2a03:2880:13ff:14::face:b00c
 2a03:2880:13ff:17::face:b00c
-2a03:2880:13ff:1c::face:b00c
 2a03:2880:13ff:1f::face:b00c
 2a03:2880:13ff:20::face:b00c
 2a03:2880:13ff:22::face:b00c
@@ -177,7 +176,6 @@
 2a03:2880:22ff:a::face:b00c
 2a03:2880:27ff:2::face:b00c
 2a03:2880:27ff:4::face:b00c
-2a03:2880:27ff:7::face:b00c
 2a03:2880:27ff:c::face:b00c
 2a03:2880:27ff:d::face:b00c
 2a03:2880:27ff:f::face:b00c

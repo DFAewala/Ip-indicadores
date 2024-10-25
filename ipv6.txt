@@ -1,4 +1,4 @@
-# Documento generado: 2024-10-25 10:12:25
+# Documento generado: 2024-10-25 10:42:32
 2001:2e8:678:0:2:1:0:30
 2001:470:1:332::a1
 2001:470:1:332::b9
@@ -161,6 +161,8 @@
 2a03:2880:ff:3b::face:b00c
 2a03:2880:2ff:7e::face:b00c
 2a03:2880:13ff:a::face:b00c
+2a03:2880:13ff:b::face:b00c
+2a03:2880:13ff:c::face:b00c
 2a03:2880:13ff:1a::face:b00c
 2a03:2880:21ff:4::face:b00c
 2a03:2880:21ff:6::face:b00c
